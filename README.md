@@ -54,5 +54,3 @@ If you want to use the automatic Python script, you need:
    ```
 
 ---
-
-## 📄 License

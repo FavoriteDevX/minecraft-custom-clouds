@@ -1,7 +1,8 @@
 # Minecraft Custom Clouds
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/79b6ca95-bf86-4727-8506-8def63748a6c" />
-AMOGUS XD
+
+nice sus gameplay lol are u kidding me
 
 This repository contains a **ready-to-use Minecraft Resource Pack** and an **optional Python script** to instantly convert any image into a cloud shape.
 
